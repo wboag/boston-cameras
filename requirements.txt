@@ -9,3 +9,5 @@ tqdm
 pandas
 numpy
 matplotlib
+ipython
+notebook
