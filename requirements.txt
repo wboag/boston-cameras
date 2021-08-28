@@ -1,9 +1,6 @@
 folium
 osmnx
 detectron2
-gspread
-oauth2client
-google_streetview
 cv2
 tqdm
 pandas
